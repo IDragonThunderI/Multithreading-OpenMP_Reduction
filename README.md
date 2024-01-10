@@ -1,0 +1,1 @@
+# 3. OpenMP reduction
